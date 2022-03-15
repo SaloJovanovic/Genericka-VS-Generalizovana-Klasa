@@ -1,0 +1,15 @@
+C:\Users\aleks\source\repos\OOP_Projekat\OOP_Projekat\bin\Debug\net6.0\OOP_Projekat.exe
+C:\Users\aleks\source\repos\OOP_Projekat\OOP_Projekat\bin\Debug\net6.0\OOP_Projekat.deps.json
+C:\Users\aleks\source\repos\OOP_Projekat\OOP_Projekat\bin\Debug\net6.0\OOP_Projekat.runtimeconfig.json
+C:\Users\aleks\source\repos\OOP_Projekat\OOP_Projekat\bin\Debug\net6.0\OOP_Projekat.dll
+C:\Users\aleks\source\repos\OOP_Projekat\OOP_Projekat\bin\Debug\net6.0\ref\OOP_Projekat.dll
+C:\Users\aleks\source\repos\OOP_Projekat\OOP_Projekat\bin\Debug\net6.0\OOP_Projekat.pdb
+C:\Users\aleks\source\repos\OOP_Projekat\OOP_Projekat\obj\Debug\net6.0\OOP_Projekat.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\OOP_Projekat\OOP_Projekat\obj\Debug\net6.0\OOP_Projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\OOP_Projekat\OOP_Projekat\obj\Debug\net6.0\OOP_Projekat.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\OOP_Projekat\OOP_Projekat\obj\Debug\net6.0\OOP_Projekat.AssemblyInfo.cs
+C:\Users\aleks\source\repos\OOP_Projekat\OOP_Projekat\obj\Debug\net6.0\OOP_Projekat.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\OOP_Projekat\OOP_Projekat\obj\Debug\net6.0\OOP_Projekat.dll
+C:\Users\aleks\source\repos\OOP_Projekat\OOP_Projekat\obj\Debug\net6.0\ref\OOP_Projekat.dll
+C:\Users\aleks\source\repos\OOP_Projekat\OOP_Projekat\obj\Debug\net6.0\OOP_Projekat.pdb
+C:\Users\aleks\source\repos\OOP_Projekat\OOP_Projekat\obj\Debug\net6.0\OOP_Projekat.genruntimeconfig.cache
